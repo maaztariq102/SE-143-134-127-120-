@@ -1,4 +1,4 @@
-# <ALI_MAAZ_ HAMDAN> Library Management System
+# <ALI_MAAZ_> Library Management System
 A simple Library Management System built in two sprints using Scrum and
 GitHub Projects.
 ## Team and roles
